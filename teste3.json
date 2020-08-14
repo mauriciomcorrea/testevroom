@@ -28,7 +28,7 @@
     {"id": 26, "start": [-53.742543, -29.707148], "end": [-53.742543, -29.707148], "capacity": [1000], "skills": [1,14],"time_window": [0,14400]},
     {"id": 27, "start": [-53.742543, -29.707148], "end": [-53.742543, -29.707148], "capacity": [1000], "skills": [1,14],"time_window": [0,14400]},
     {"id": 28, "start": [-53.742543, -29.707148], "end": [-53.742543, -29.707148], "capacity": [1000], "skills": [1,14],"time_window": [0,14400]},
-    {"id": 29, "start": [-53.742543, -29.707148], "end": [-53.742543, -29.707148], "capacity": [1000], "skills": [1,14],"time_window": [0,14400]},
+    {"id": 29, "start": [-53.742543, -29.707148], "end": [-53.742543, -29.707148], "capacity": [1000], "skills": [1,14],"time_window": [0,14400]}
 
     
   ],
@@ -95,7 +95,6 @@
 {"id":60, "service": 30, "location": [-53.7363336,-29.6990233], "skills": [14], "time_windows": [[0,14400]]},
 {"id":61, "service": 30, "location": [-53.7363336,-29.6990233], "skills": [14], "time_windows": [[0,14400]]},
 {"id":62, "service": 30, "location": [-53.8142375,-29.0869585], "skills": [14], "time_windows": [[0,14400]]},
-{"id":63, "service": 30, "location": [,Coordenadas], "skills": [14], "time_windows": [[0,14400]]},
 {"id":64, "service": 30, "location": [-53.7951184,-29.7087733], "skills": [14], "time_windows": [[0,14400]]},
 {"id":65, "service": 30, "location": [-53.4459068,-29.5771419], "skills": [14], "time_windows": [[0,14400]]},
 {"id":66, "service": 30, "location": [-53.4459068,-29.5771419], "skills": [14], "time_windows": [[0,14400]]},
